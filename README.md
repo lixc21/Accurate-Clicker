@@ -1,6 +1,10 @@
 ## 实现精确时间的鼠标点击  
 **Precise Time Mouse Clicks**
 
+下载地址  
+https://github.com/lixc21/Accurate-Clicker/releases/tag/v1.0
+
+---
 - 一般电脑主板上的时钟一天能差一两秒，不够准，需要通过网络时间协议（NTP）进行校准。我首先写了个程序，用于检查当前系统时间和标准时间（从NTP得来）的差别，也就是Time_Analyzer.exe。第一行是NTP服务器地址，百度搜索可以搜到很多  
 - The clock on a typical computer motherboard can be off by one or two seconds per day, which is not precise enough. This can be corrected using the Network Time Protocol (NTP). The first line is the NTP server address, which can be found with a simple search on Google.
 
