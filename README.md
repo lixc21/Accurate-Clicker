@@ -1,5 +1,4 @@
-## 实现精确时间的鼠标点击  
-**Precise Time Mouse Clicks**
+## 实现精确时间的鼠标点击 (Precise Time Mouse Clicks)
 
 下载地址 https://github.com/lixc21/Accurate-Clicker/releases/tag/v1.0
 
