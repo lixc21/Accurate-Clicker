@@ -7,7 +7,7 @@
 - The clock on a typical computer motherboard can be off by one or two seconds per day, which is not precise enough. This can be corrected using the Network Time Protocol (NTP). The first line is the NTP server address, which can be found with a simple search on Google.
 
 <p align="center">
-<img src="https://github.com/lixc21/Accurate-Clicker/assets/95122124/418aa8a2-5ec2-489f-ac97-e805ceaae251" alt="alt text" width="40%" />
+<img src="https://github.com/lixc21/Accurate-Clicker/assets/95122124/418aa8a2-5ec2-489f-ac97-e805ceaae251" alt="alt text" width="45%" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - After obtaining this, I wrote another program, Accurate_Clicker.exe, which can perform precise clicks. The hours, minutes, and seconds displayed above are the desired click time, and the last line allows you to input the time difference analyzed by the previous program for calibration. After clicking 'run', the program will perform a click at the specified time.
 
 <p align="center">
-<img src="https://github.com/lixc21/Accurate-Clicker/assets/95122124/4369b305-0800-4f3e-a13e-9f64aaecf45b" alt="alt text" width="40%" />
+<img src="https://github.com/lixc21/Accurate-Clicker/assets/95122124/4369b305-0800-4f3e-a13e-9f64aaecf45b" alt="alt text" width="35%" />
 </p>
 
 
